@@ -1,11 +1,14 @@
 
-# Hi, Gisele Mwizera 👋
+# Hi,I am Gisele Mwizera 👋
 
    👯 Full-stack developer, FE-heavy <br>
    🔭 Cybersecurity enthusiast. <br>
    🌱 I’m currently learning Java. <br>
    📫 How to reach me: mamengisele@gmail.com. <br>
    ⚡ In love with reading books. <br>
+   
+# replace username with your own or change theme
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#giseleMwizera&theme=dracula&hide_border=true)
 
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#giseleMwizera&theme=dracula&hide_border=true)
