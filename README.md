@@ -1,11 +1,11 @@
 
 # Hi, Gisele Mwizera 👋
 
-   🔭 Cybersecurity enthusiast
-   🌱 I’m currently learning Java
-   👯 I’m looking to collaborate on javascript-based application
-   📫 How to reach me: mamengisele@gmail.com
-   ⚡ In love with reading books
+   🔭 Cybersecurity enthusiast.
+   🌱 I’m currently learning Java.
+   👯 I’m looking to collaborate on javascript-based application.
+   📫 How to reach me: mamengisele@gmail.com.
+   ⚡ In love with reading books.
 
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#giseleMwizera&theme=dracula&hide_border=true)
