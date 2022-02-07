@@ -1,9 +1,9 @@
 
 # Hi, Gisele Mwizera 👋
 
+   👯 Full-stack developer, FE-heavy <br>
    🔭 Cybersecurity enthusiast. <br>
    🌱 I’m currently learning Java. <br>
-   👯 I’m looking to collaborate on javascript-based application. <br>
    📫 How to reach me: mamengisele@gmail.com. <br>
    ⚡ In love with reading books. <br>
 
