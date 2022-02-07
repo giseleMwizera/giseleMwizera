@@ -1,23 +1,21 @@
 
 # Hi, Gisele Mwizera <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-
-# this is my daily.dev card, you can edit this accordingly
-    <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
+<table>
+<tr>
+  <td valign="center">
+   🔭 Cybersecurity enthusiast
+   🌱 I’m currently learning Java
+   👯 I’m looking to collaborate on javascript-based application
+   📫 How to reach me: mamengisele@gmail.com
+   ⚡ In love with reading books
+<td >
+     <a href="https://app.daily.dev/amen_stack"><img src="https://api.daily.dev/devcards/434b8ff9ab7645d4b51b48556ee40b2e.png?r=7eh" width="300" alt="Gisele Mwizera Card"/></a>
   </td>
 
 </tr>
 </table>
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 Cybersecurity enthusiast
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on javascript-based application
-- 📫 How to reach me: mamengisele@gmail.com
-- ⚡ In love with reading books
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#giseleMwizera&theme=dracula&hide_border=true)
 
