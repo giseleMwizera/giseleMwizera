@@ -40,7 +40,7 @@
 
 <!-- GitHub Stats Section -->
 [Add a GitHub stats card that displays your GitHub statistics, such as repositories, contributions, followers, etc.]
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![giseleMwizera's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Featured Projects
 
