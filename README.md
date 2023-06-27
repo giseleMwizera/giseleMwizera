@@ -8,7 +8,7 @@
 # Hello, I'm [Your Name]!
 
 <!-- Introduction Section -->
-[Add a brief introduction about yourself, your background, and what you do. You can include your areas of expertise or interests.]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ## 🚀 Skills and Technologies
 
