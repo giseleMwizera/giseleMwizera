@@ -11,7 +11,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-giseleMwizera-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mwizera-amen-gisele-05699b213/) [![Instagram Badge](https://img.shields.io/badge/-giseleMWizera-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/g.i.s_.e.l.e/) 
 
 # Contribution graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=giseleMwizera&theme=dracula&hide_border=true)
+![GitHub Activity Graph]([https://activity-graph.herokuapp.com/graph?username=giseleMwizera&theme=dracula&hide_border=true](https://profile-summary-for-github.com/user/giseleMwizera))
 
 ## Stats📈
 <p align="center">
